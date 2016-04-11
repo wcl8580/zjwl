@@ -1,0 +1,338 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Home</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Hosting Store Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery-1.11.1.min.js"></script>
+<!-- Custom Theme files -->
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<!-- Custom Theme files -->
+<!-- webfonts -->
+<link href='http://fonts.useso.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
+<!-- webfonts -->
+<!-- dropdown -->
+<script src="js/jquery.easydropdown.js"></script>
+<link href="css/nav.css" rel="stylesheet" type="text/css" media="all"/>
+<!-- start-smoth-scrolling -->
+<script type="text/javascript" src="js/move-top.js"></script>
+		<script type="text/javascript" src="js/easing.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+				});
+			});
+		</script>
+<!-- end-smoth-scrolling -->
+</head>
+<!-- Header Starts Here -->
+<div class="banner" >
+		<div class="header">
+	<div class="container">
+		<div class="logo">
+			<a href="index.html"><img src="images/logo.png" alt="指在云间"></a>
+		</div>
+		<span class="menu"> Menu</span>
+			
+		<div class="banner-top">
+								<ul class="nav banner-nav">                                     
+										<li><a class="active" href="index.html">主页</a></li>
+										<li class="dropdown1"><a href="domain.html">公司简介</a>
+										<li class="dropdown1"><a class="down-scroll" href="">基础建设</a>
+											<ul class="dropdown2">
+												<li><a href="sharedhosting.html">网络组建</a></li>
+												<li><a href="vps.html">无线建设</a></li>
+												<li><a href="dedicated-servers.html">专网建设</a></li>
+												<li><a href="dedicated-servers.html">机房建设</a></li>
+											</ul>
+										</li>
+										<li class="dropdown1"><a class="down-scroll" href="">安全建设</a>
+											<ul class="dropdown2">
+												<li><a href="sharedhosting.html">网络安全</a></li>
+												<li><a href="vps.html">数据安全</a></li>
+												<li><a href="dedicated-servers.html">应用安全</a></li>
+											</ul>
+										</li>  
+										<li class="dropdown1"><a class="down-scroll" href="">平台建设</a>
+											<ul class="dropdown2">
+												<li><a href="about.html">云共享</a></li>
+												<li><a href="support.html">虚拟化</a></li>
+												<li><a href="faq.html">超融合</a></li>
+											</ul>
+										</li> 
+										<li class="dropdown1"><a class="down-scroll" href="">应用建设</a>
+											<ul class="dropdown2">
+												<li><a href="blog.html">终端类</a></li>
+												<li><a href="single.html">网站类</a></li>
+												<li><a href="single.html">其它类</a></li>
+											</ul>
+										</li>
+										<li class="dropdown1"><a class="down-scroll" href="">技术服务</a>
+											<ul class="dropdown2">
+												<li><a href="blog.html">等级保护</a></li>
+												<li><a href="single.html">网络运维</a></li>
+											</ul>
+										</li>		
+										<li class="dropdown1"><a href="contact.html">关于我们</a>
+											<ul class="dropdown2">
+												<li><a href="blog.html">公司简介</a></li>
+												<li><a href="single.html">行业动态</a></li>
+												<li><a href="single.html">联系我们</a></li>
+											</ul>
+										</li>  
+								</ul>
+								<script>
+									$("span.menu").click(function(){
+										$(" ul.nav").slideToggle("slow" , function(){
+										});
+									});
+								</script>
+							</div>
+		<div class="clearfix"> </div>
+
+	</div>
+	</div>
+			<div class="banner-info">
+			<h1>我们是您最好的选择</h1>
+			<p>—— 技术实力够硬、客户案例够多、售后服务够好.</p>
+		</div>
+</div>
+<div class="clearfix"> </div>
+<!-- Header Ends Here -->	
+<div class="best">
+	<div class="container">
+		<article>
+			<figure class="float-left"><img src="images/470x240.jpg" alt="Placeholder"></figure>
+			<h2><span>提供优质的服务</span> For You</h2>
+			<p>为您提供做完善的解决方案、最优质的技术支持服务，提供从前期方案咨询、方案实施、后期技术支持一条龙服务，哪里出现问题，我们就会出现在哪里.</p>
+		</article>	
+	</div>	
+</div>
+<div class="plans">
+		<div class="container">
+
+			<!-- pricing table -->
+			<h1 class="heading">我们能做些什么</h1>
+
+			<div class="col-md-4 one_third pricing">
+				<div class="pricing_top">
+					<h6>方案撰写</h6>
+				</div>
+				<div class="pricing_middle">
+					<ul>
+						<li>现场沟通</li>
+						<li>需求分析</li>
+						<li>撰写方案</li>
+						<li>提交报告</li>
+					</ul>
+				</div>
+				<div class="pricing_bottom">
+					<a href="#">Order</a>
+				</div>
+			</div>
+
+			<div class="col-md-4 one_third pricing">
+				<div class="pricing_top">
+					<h6>方案实施</h6>
+				</div>
+				<div class="pricing_middle">
+					<ul>
+						<li>商务流程</li>
+						<li>现场实施</li>
+						<li>方案验收</li>
+						<li>提交汇总</li>
+					</ul>
+				</div>
+				<div class="pricing_bottom">
+					<a href="#">Order</a>
+				</div>
+			</div>
+
+			<div class="col-md-4 one_third last pricing">
+				<div class="pricing_top">
+					<h6>技术服务</h6>
+				</div>
+				<div class="pricing_middle">
+					<ul>
+						<li>远程服务</li>
+						<li>现场服务</li>
+						<li>应急服务</li>
+						<li>运维服务</li>
+					</ul>
+				</div>
+				<div class="pricing_bottom">
+					<a href="#">Order</a>
+				</div>
+			</div>
+
+			<div class="clearfix"></div>
+			
+		</div>
+	</div>
+	<div class="fullwidth-section semi-background">
+                        <div class="fullwidth-bg">	  
+                            <div class="overlay left-aligned">
+                            	<div class="dt-sc-one-half column first">
+                                	<div class="dt-support">
+                                        <h2><span>您的网网络您说了算</span></h2>
+                                        <p>当前环境下，您是您网络的主人，但是真的是这样的吗，网络中的病毒、攻击、非法篡改、数据泄密等等，这些您都知道吗，有了我们的支持，您的网就是您的网，您的网您说了算.</p>
+                                        <span>(855) 503-0450</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>   
+<div class="service-section" id="service">
+				<div class="container">
+					<div class="service-section-head text-center wow fadeInRight" data-wow-delay="0.4s">
+						<h3>拥抱现在 守护未来</h3>
+						<p>当您网络系统出现问题了，您当然会想到我们，但是为什么不在问题发生前就想到呢，防患于未然，古人尚且知道这个道理，只是为了现在吗，不，是守护未来</p>
+					</div>
+					<div class="service-section-grids">
+						<div class="col-md-6 service-grid">
+							<div class="service-section-grid wow bounceIn" data-wow-delay="0.4s">
+								<div class="icon">
+									<i class="s1"></i>
+								</div>
+								<div class="icon-text">
+									<h4>网络基础建设方案</h4>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="service-section-grid wow bounceIn" data-wow-delay="0.4s">
+								<div class="icon">
+									<i class="s2"></i>
+								</div>
+								<div class="icon-text">
+									<h4>应用系统建设方案</h4>
+									<p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy</p>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="service-section-grid wow bounceIn" data-wow-delay="0.4s">
+								<div class="icon">
+									<i class="s3"></i>
+								</div>
+								<div class="icon-text">
+									<h4>私有云建设方案</h4>
+									<p>Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham</p>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+						<div class="col-md-6 service-grid">
+							<div class="service-section-grid wow bounceIn" data-wow-delay="0.4s">
+								<div class="icon">
+									<i class="s4"></i>
+								</div>
+								<div class="icon-text">
+									<h4>网络安全解决方案</h4>
+									<p>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy</p>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="service-section-grid wow bounceIn" data-wow-delay="0.4s">
+								<div class="icon">
+									<i class="s5"></i>
+								</div>
+								<div class="icon-text">
+									<h4>数据安全解决方案</h4>
+									<p>There are many variations of passages of Lorem Ipsum available, suffered alteration in some form, by injected humouror randomised words which don't look even slightly believable.</p>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="service-section-grid wow bounceIn" data-wow-delay="0.4s">
+								<div class="icon">
+									<i class="s6"></i>
+								</div>
+								<div class="icon-text">
+									<h4>无线网建设方案</h4>
+									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+			</div>
+<!--services-->
+<div class="services-bottom">
+	<p>为什么选择我们<span>不需要太多语言</span>我想您已经懂了</p>
+</div>
+<!--/srvices-->
+<!-- #Footer -->
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<span class="title">Latest Tweets</span>
+						<p>Lorem ipsum dolor sit amet, <span class="greenText">#tweetTag</span> consectetur adipiscing elit. Ut vel pharetra diam. Aenean convallis nibh facilisis risus convallis, non ornare tellus vehicula.<span class="tweetTime">10 Minutes Ago</span></p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel pharetra diam. Aenean convallis nibh facilisis risus convallis, non ornare tellus vehicula.<span class="tweetTime">1 Hour Ago</span></p>
+					</div>
+					<div class="col-md-2 col-xs-6 col-sm-4">
+						<ul class="footerMenu">
+							<li class="title">What we do</li>
+							<li><a href="#">Plans</a></li>
+							<li><a href="#">Overview</a></li>
+							<li><a href="#">Features Tour</a></li>
+							<li><a href="#">CloudFlare's Network</a></li>
+							<li><a href="#">CloudFlare Apps</a></li>
+						</ul>
+					</div>
+					<div class="col-md-2 col-xs-6 col-sm-4">
+						<ul class="footerMenu">
+							<li class="title">Services</li>
+							<li><a href="#">Virtual Private Servers</a></li>
+							<li><a href="#">Dedicated Servers</a></li>
+							<li><a href="#">cloud vps</a></li>
+							<li><a href="#">Server Management</a></li>
+							<li><a href="#">Script Installation</a></li>
+						</ul>
+					</div>
+					<div class="col-md-2 col-xs-6 col-sm-4">
+						<ul class="footerAddress">
+							<li class="title">Contact Us</li>
+							<li><strong>Address:</li>
+							<li>p. Palace, Bangalore Palace Road, India, LP4 2P8</li>
+							<li><strong>Phone:</strong></li>
+							<li>080 1249 4654</li>
+						</ul>
+					</div>
+				</div>
+				<hr>
+			</div>			
+			<div class="copyrights">
+				<div class="container">
+					<p>Copyright &copy; 2015.Company name All rights reserved.More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a></p>
+				</div>
+			</div>
+		</footer>
+		<!-- /#Footer -->
+		<!-- here stars scrolling icon -->
+	<script type="text/javascript">
+									$(document).ready(function() {
+										/*
+										var defaults = {
+								  			containerID: 'toTop', // fading element id
+											containerHoverID: 'toTopHover', // fading element hover id
+											scrollSpeed: 1200,
+											easingType: 'linear' 
+								 		};
+										*/
+										
+										$().UItoTop({ easingType: 'easeOutQuart' });
+										
+									});
+	</script>
+	<!-- //here ends scrolling icon -->
+</body>
+</html>
